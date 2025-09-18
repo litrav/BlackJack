@@ -1,0 +1,30 @@
+ {
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Blackjack_67d1bcdd"
+    },
+    {
+      "type": "java",
+      "name": "BlackJack",
+      "request": "launch",
+      "mainClass": "BlackJack",
+      "projectName": "Blackjack_67d1bcdd"
+    },
+    {
+      "type": "java",
+      "name": "Launch BlackJack",
+      "request": "launch",
+      "mainClass": "BlackJack",
+      "projectName": "BlackJack",
+      "classPaths": [
+        "${workspaceFolder}/bin",
+        "${workspaceFolder}/resources"
+      ]
+    }
+  ]
+}
