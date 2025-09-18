@@ -17,8 +17,7 @@ disponível em: https://www.oracle.com/br/java/technologies/javase/jdk24-archive
 
 # Criado Por:
 Pedro Trofino
-github.com/litrav
-linkedin.com/in/pedro-trofino
+https://linkedin.com/in/pedro-trofino
 
 ## Screenshots
 
