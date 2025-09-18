@@ -1,7 +1,7 @@
  # BlackJack
 
  inspirado no vídeo: https://www.youtube.com/watch?v=GMdgjaDdOjI
- Imagens e diversas funcionalidades inspiradas no tutorial.
+ Imagens e diversas funcionalidades retiradas do tutorial.
 
 
 ## Funcionalidades
